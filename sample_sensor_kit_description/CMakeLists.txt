@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(Go2_sensor_kit_description)
+project(go2_sensor_kit_description)
 
 find_package(ament_cmake_auto REQUIRED)
 
